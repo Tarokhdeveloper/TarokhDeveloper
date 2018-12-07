@@ -12,6 +12,7 @@
 		FE1CE38021BA7D0600E186A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE1CE37E21BA7D0600E186A1 /* Main.storyboard */; };
 		FE1CE38221BA7D0700E186A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE1CE38121BA7D0700E186A1 /* Assets.xcassets */; };
 		FE1CE38521BA7D0700E186A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE1CE38321BA7D0700E186A1 /* LaunchScreen.storyboard */; };
+		FE1CE38D21BAC87500E186A1 /* tarokhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1CE38C21BAC87500E186A1 /* tarokhViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FE1CE38121BA7D0700E186A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE1CE38421BA7D0700E186A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE1CE38621BA7D0700E186A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE1CE38C21BAC87500E186A1 /* tarokhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tarokhViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FE1CE38121BA7D0700E186A1 /* Assets.xcassets */,
 				FE1CE38321BA7D0700E186A1 /* LaunchScreen.storyboard */,
 				FE1CE38621BA7D0700E186A1 /* Info.plist */,
+				FE1CE38C21BAC87500E186A1 /* tarokhViewController.swift */,
 			);
 			path = myGit1;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE1CE38D21BAC87500E186A1 /* tarokhViewController.swift in Sources */,
 				FE1CE37D21BA7D0600E186A1 /* ViewController.swift in Sources */,
 				FE1CE37B21BA7D0600E186A1 /* AppDelegate.swift in Sources */,
 			);
